@@ -2,9 +2,8 @@
 - 👀 I’m interested in typescript
 - 🌱 I’m currently learning Docker, Graphql, mongoDB and Kafka
 - 💞️ I’m looking to collaborate on fun projects with above mentioned stack
-- 📫 How to reach me hello@tech-abyss.com
-
-- Want to connect?
+- 📫 How to reach me
+  - email: hello@tech-abyss.com
   - linkedin: https://linkedin.com/in/b-kash
   - website: https://tech-abyss.com
 
